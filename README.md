@@ -15,3 +15,4 @@ The third column is the tweet text.
 
 Each line in the stopwrods files represent a single stopword.
 
+NOTE: The English dataset was extracted from https://doi.org/10.1016/j.eswa.2018.10.017
